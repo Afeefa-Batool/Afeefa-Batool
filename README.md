@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://i.ibb.co/Lttg6xk/banner.jpg" alt="banner" border="0" />
-  <img src="https://ibb.co/HzzPYtF" alt="Welcome Header Image" width="100%" style="border-radius: 5px;">
+  <img src="https://i.ibb.co/Lttg6xk/banner.jpg" alt="banner" width="100%" style="border-radius: 5px;"/>
+
   <h1>Hi, I'm Afeefa 👋</h1>
   <h3>A Passionate Software Engineer from Lahore, Pakistan</h3>
 </div>
